@@ -1,0 +1,10 @@
+.font {
+    font-size: 380%;
+}
+
+.country-flag {
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+    border-radius: 5px;
+}

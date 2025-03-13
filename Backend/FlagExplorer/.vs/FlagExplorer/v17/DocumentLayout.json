@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|solutionrelative:flagexplorer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030AA1ED-D59E-47C3-BE44-C6EB8CACC870}|FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.infrastructure\\externals\\countryexternalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030AA1ED-D59E-47C3-BE44-C6EB8CACC870}|FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj|solutionrelative:flagexplorer.infrastructure\\externals\\countryexternalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.domain\\settings\\externalapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|solutionrelative:flagexplorer.domain\\settings\\externalapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.domain\\interfaces\\icountryexternalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|solutionrelative:flagexplorer.domain\\interfaces\\icountryexternalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|solutionrelative:flagexplorer.api\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D814BEB6-5E09-41D2-9735-ADDB139F042F}|FlagExplorer.Application\\FlagExplorer.Application.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.application\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D814BEB6-5E09-41D2-9735-ADDB139F042F}|FlagExplorer.Application\\FlagExplorer.Application.csproj|solutionrelative:flagexplorer.application\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.domain\\entities\\countrydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|solutionrelative:flagexplorer.domain\\entities\\countrydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.domain\\entities\\countryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|solutionrelative:flagexplorer.domain\\entities\\countryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|solutionrelative:flagexplorer.domain\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.domain\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|solutionrelative:flagexplorer.domain\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|solutionrelative:flagexplorer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|solutionrelative:flagexplorer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38447C08-475C-4B4B-9D4D-7A0CC91A30FC}|FlagExplorer.Tests\\FlagExplorer.Tests.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.tests\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38447C08-475C-4B4B-9D4D-7A0CC91A30FC}|FlagExplorer.Tests\\FlagExplorer.Tests.csproj|solutionrelative:flagexplorer.tests\\countryservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D814BEB6-5E09-41D2-9735-ADDB139F042F}|FlagExplorer.Application\\FlagExplorer.Application.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.application\\flagexplorer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D814BEB6-5E09-41D2-9735-ADDB139F042F}|FlagExplorer.Application\\FlagExplorer.Application.csproj|solutionrelative:flagexplorer.application\\flagexplorer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030AA1ED-D59E-47C3-BE44-C6EB8CACC870}|FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.infrastructure\\flagexplorer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{030AA1ED-D59E-47C3-BE44-C6EB8CACC870}|FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj|solutionrelative:flagexplorer.infrastructure\\flagexplorer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38447C08-475C-4B4B-9D4D-7A0CC91A30FC}|FlagExplorer.Tests\\FlagExplorer.Tests.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.tests\\flagexplorer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38447C08-475C-4B4B-9D4D-7A0CC91A30FC}|FlagExplorer.Tests\\FlagExplorer.Tests.csproj|solutionrelative:flagexplorer.tests\\flagexplorer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.domain\\flagexplorer.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7447A948-8AA8-475B-92D2-4A9C9E67604B}|FlagExplorer.Domain\\FlagExplorer.Domain.csproj|solutionrelative:flagexplorer.domain\\flagexplorer.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|c:\\users\\sanel\\source\\repos\\sanelisosimelaneassessment\\backend\\flagexplorer\\flagexplorer.api\\flagexplorer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FC0CC52-CFD7-4C02-9DC0-3C1F57C399A2}|FlagExplorer.API\\FlagExplorer.API.csproj|solutionrelative:flagexplorer.api\\flagexplorer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryExternalClient.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Infrastructure\\Externals\\CountryExternalClient.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Infrastructure\\Externals\\CountryExternalClient.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Infrastructure\\Externals\\CountryExternalClient.cs",
+              "RelativeToolTip": "FlagExplorer.Infrastructure\\Externals\\CountryExternalClient.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAewEAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:51:41.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.API\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "FlagExplorer.API\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:29:50.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICountryExternalClient.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Interfaces\\ICountryExternalClient.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Domain\\Interfaces\\ICountryExternalClient.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Interfaces\\ICountryExternalClient.cs",
+              "RelativeToolTip": "FlagExplorer.Domain\\Interfaces\\ICountryExternalClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:19:21.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryDetails.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Entities\\CountryDetails.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Domain\\Entities\\CountryDetails.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Entities\\CountryDetails.cs",
+              "RelativeToolTip": "FlagExplorer.Domain\\Entities\\CountryDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:16:31.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Domain\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Entities\\Country.cs",
+              "RelativeToolTip": "FlagExplorer.Domain\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:19:56.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Domain\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "FlagExplorer.Domain\\Interfaces\\ICountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:00:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FlagExplorer.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\appsettings.Development.json",
+              "RelativeToolTip": "FlagExplorer.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T11:24:15.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExternalApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Settings\\ExternalApiSettings.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Domain\\Settings\\ExternalApiSettings.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Settings\\ExternalApiSettings.cs",
+              "RelativeToolTip": "FlagExplorer.Domain\\Settings\\ExternalApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:42:05.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FlagExplorer.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\appsettings.json",
+              "RelativeToolTip": "FlagExplorer.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T19:38:10.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Entities\\CountryInfo.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Domain\\Entities\\CountryInfo.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\Entities\\CountryInfo.cs",
+              "RelativeToolTip": "FlagExplorer.Domain\\Entities\\CountryInfo.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwLsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:57:34.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Application\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Application\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Application\\Services\\CountryService.cs",
+              "RelativeToolTip": "FlagExplorer.Application\\Services\\CountryService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:21:30.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\Program.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\Program.cs",
+              "RelativeToolTip": "FlagExplorer.API\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:39:12.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountryServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Tests\\CountryServiceTests.cs",
+              "RelativeDocumentMoniker": "FlagExplorer.Tests\\CountryServiceTests.cs",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Tests\\CountryServiceTests.cs",
+              "RelativeToolTip": "FlagExplorer.Tests\\CountryServiceTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:47:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlagExplorer.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Application\\FlagExplorer.Application.csproj",
+              "RelativeDocumentMoniker": "FlagExplorer.Application\\FlagExplorer.Application.csproj",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Application\\FlagExplorer.Application.csproj",
+              "RelativeToolTip": "FlagExplorer.Application\\FlagExplorer.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T19:21:05.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlagExplorer.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj",
+              "RelativeToolTip": "FlagExplorer.Infrastructure\\FlagExplorer.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T19:23:05.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FlagExplorer.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Tests\\FlagExplorer.Tests.csproj",
+              "RelativeDocumentMoniker": "FlagExplorer.Tests\\FlagExplorer.Tests.csproj",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Tests\\FlagExplorer.Tests.csproj",
+              "RelativeToolTip": "FlagExplorer.Tests\\FlagExplorer.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T20:46:54.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlagExplorer.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\FlagExplorer.Domain.csproj",
+              "RelativeDocumentMoniker": "FlagExplorer.Domain\\FlagExplorer.Domain.csproj",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.Domain\\FlagExplorer.Domain.csproj",
+              "RelativeToolTip": "FlagExplorer.Domain\\FlagExplorer.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T19:41:30.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlagExplorer.API.csproj",
+              "DocumentMoniker": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\FlagExplorer.API.csproj",
+              "RelativeDocumentMoniker": "FlagExplorer.API\\FlagExplorer.API.csproj",
+              "ToolTip": "C:\\Users\\sanel\\source\\repos\\SanelisoSimelaneAssessment\\Backend\\FlagExplorer\\FlagExplorer.API\\FlagExplorer.API.csproj",
+              "RelativeToolTip": "FlagExplorer.API\\FlagExplorer.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T18:51:44.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

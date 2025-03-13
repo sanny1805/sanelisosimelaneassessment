@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FlagExplorer.API.props" />
+</Project>

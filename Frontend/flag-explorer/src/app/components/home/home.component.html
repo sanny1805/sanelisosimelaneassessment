@@ -1,0 +1,25 @@
+
+<div class="container jumbotron standard-margin" style="background-color: #6d7073;">
+    <p class="font-group text-white font">Saneliso Simelane Assessment</p>
+    <p class="lead text-white">
+        This is Saneliso Simelane Assessment for OM
+    </p>
+</div>
+<div class="container">
+    <div class="text-center my-4">
+        <h1 class="fw-bold text-primary display-5">COUNTRIES</h1>
+        <p class="text-muted fs-5">Explore different countries and their details</p>
+        <hr class="w-50 mx-auto border-primary">
+    </div>
+    <app-spinner [isLoading]="isLoading" [errorMessage]="errorMessage"></app-spinner>
+    <div class="row mt-4">
+        <div *ngFor="let country of countries" class="col-md-3 mb-3">
+            <div class="card h-100 shadow-sm" (click)="viewDetails(country.name)">
+                <img [src]="country.flagUrl" class="card-img-top country-flag" [alt]="country.name">
+                <div class="card-body text-center">
+                    <a [routerLink]="['/country-detail', country.name]" class="card-title">{{ country.name }}</a>                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

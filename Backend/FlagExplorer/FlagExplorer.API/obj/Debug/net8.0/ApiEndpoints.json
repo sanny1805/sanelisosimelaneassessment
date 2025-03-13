@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "FlagExplorer.API.Controllers.CountryController",
+    "Method": "GetAllCountries",
+    "RelativePath": "api/countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[FlagExplorer.Domain.Entities.Country, FlagExplorer.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FlagExplorer.API.Controllers.CountryController",
+    "Method": "GetCountryByName",
+    "RelativePath": "api/countries/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FlagExplorer.Domain.Entities.CountryDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

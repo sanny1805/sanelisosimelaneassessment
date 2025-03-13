@@ -1,0 +1,67 @@
+trigger:
+  branches:
+    include:
+      - main
+
+variables:
+  AZURE_WEBAPP_NAME: 'flagexplorer-backend'
+  DOTNET_VERSION: '8.0.x'
+  WORKING_DIRECTORY: 'Backend/FlagExplorer'
+  PUBLISH_FOLDER: '$(Build.ArtifactStagingDirectory)/publish'
+
+stages:
+- stage: BuildAndTest
+  displayName: 'Build and Test'
+  jobs:
+  - job: Build
+    displayName: 'Run Tests and Build Application'
+    pool:
+      vmImage: 'ubuntu-latest'
+      
+    steps:
+    - task: UseDotNet@2
+      displayName: 'Install .NET SDK'
+      inputs:
+        packageType: 'sdk'
+        version: $(DOTNET_VERSION)
+        
+    - script: |
+        cd $(WORKING_DIRECTORY)
+        dotnet restore FlagExplorer.sln
+      displayName: 'Restore Dependencies'
+      
+    - script: |
+        cd $(WORKING_DIRECTORY)
+        dotnet test --configuration Release --no-build --no-restore --collect:"XPlat Code Coverage" --logger trx --fail-on-failed-tests
+      displayName: 'Run Automated Tests'
+      
+    - script: |
+        cd $(WORKING_DIRECTORY)
+        dotnet build FlagExplorer.sln --configuration Release --no-restore
+      displayName: 'Build Application'
+
+- stage: Package
+  displayName: 'Package Backend for Deployment'
+  dependsOn: BuildAndTest
+  jobs:
+  - job: Package
+    displayName: 'Publish and Package Backend'
+    pool:
+      vmImage: 'ubuntu-latest'
+      
+    steps:
+    - script: |
+        cd $(WORKING_DIRECTORY)
+        dotnet publish FlagExplorer.sln -c Release -o $(PUBLISH_FOLDER)
+      displayName: 'Publish Backend'
+      
+    - script: |
+        cd $(PUBLISH_FOLDER)
+        zip -r $(Build.ArtifactStagingDirectory)/backend.zip .
+      displayName: 'Package as ZIP'
+
+    - task: PublishBuildArtifacts@1
+      displayName: 'Store Packaged Build'
+      inputs:
+        pathToPublish: '$(Build.ArtifactStagingDirectory)/backend.zip'
+        artifactName: 'drop'

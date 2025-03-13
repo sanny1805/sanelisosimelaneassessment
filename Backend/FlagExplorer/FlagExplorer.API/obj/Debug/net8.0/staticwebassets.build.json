@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EoDsi49jhwzXDFKm5cuqdtdIAY2VWjp/GnR3NQwJGnI=",
+  "Source": "FlagExplorer.API",
+  "BasePath": "_content/FlagExplorer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
