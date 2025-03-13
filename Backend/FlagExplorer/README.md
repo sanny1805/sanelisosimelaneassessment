@@ -2,6 +2,10 @@
 
 A .NET 8 Web API that provides country details, following Clean Architecture principles.
 
+## Author
+
+- Name: Saneliso Simelane
+
 ## Features
 
 -> Get all countries with their flags.
