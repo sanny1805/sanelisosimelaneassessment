@@ -67,8 +67,7 @@ FlagExplorer/
    Clone the repository and navigate to the backend project:
 
 - git clone https://github.com/your-username/FlagExplorer.git
-- cd FlagExplorer/src/FlagExplorer.Api
-
+  
 3. Configure Environment
    Set API Base URL in appsettings.json:
 
